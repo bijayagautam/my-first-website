@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=El+Messiri&display=swap');
+
+/* CSS Reset
+*{
+    margin: 0;
+    padding: 0;
+} */
+
+body{
+    background-color: rgb(231, 233, 245);
+    color: rgb(1, 15, 10);
+    font-size: 1rem;
+    font-weight: normal;
+    font-style: normal;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    line-height: 1.5;
+}
+
+.main-heading{
+    color: rgb(170, 49, 49);
+    text-align: center;
+    /* font-family: Georgia; */
+    font-family: 'El Messiri', sans-serif;
+}
+
+.highlight{
+    background: rgb(172, 189, 245);
+}
+
+/* .title{
+    font-style: italic;
+} */
+
+.footer{
+    background: rgb(39, 45, 66);
+    color: rgb(233, 243, 240);
+    padding: 40px 20px;
+}
